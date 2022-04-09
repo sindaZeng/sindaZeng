@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Sinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sindaZeng&count_private=true&show_icons=true&hide=stars&theme=solarized-light)
 -->
+
+### My Github Information
+
+<a href="https://github.com/sindaZeng/xhuicloud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sindaZeng&repo=xhuicloud" />
+</a>
+
+<a href="https://github.com/sindaZeng/xhuicloud-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sindaZeng&repo=xhuicloud-ui" />
+</a>
