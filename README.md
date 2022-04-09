@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+- 👨🏻‍💻 I’m an java developer, But sometimes I'm also a web developer
+- 📚 like to see popular open source projects ...
+- 💬 You can ask me questions by email!
+- 📫 How to reach me: sindaZeng@gmail.com & xhuicloud@163.com
+- 😄 Skill: 
+- - `java` : Spring、SpringBoot、SpringCloud & SpringCloudAlibaba、SpringSecurity、Mybatis & Mybatis-Plus And ... 
+- - `web`  : JavaScript、h5、vue2、vue3、Freemarker And ...
+- - `linux`
+- - `docker`
+- - `...`
 <!--
 **sindaZeng/sindaZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
