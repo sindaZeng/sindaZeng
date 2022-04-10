@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨🏻‍💻 I’m an java developer, But sometimes I'm also a web developer
+- 👨🏻‍💻 I’m a java developer, But sometimes I'm also a web developer
 - 📚 like to see popular open source projects ...
 - 💬 You can ask me questions by email!
 - 📫 How to reach me: sindaZeng@gmail.com & xhuicloud@163.com
