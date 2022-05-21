@@ -7,7 +7,7 @@
 - - `java` : Spring、SpringBoot、SpringCloud & SpringCloudAlibaba、SpringSecurity & OAuth2 、Mybatis & Mybatis-Plus And ... 
 - - `web`  : JavaScript、TypeScript、h5、vue2、vue3、webpack、vite2...
 - - `linux`
-- - `docker`
+- - `Container technology`: Docker/Docker Compose/Docker swarm、 k8s
 - - `...`
 <!--
 **sindaZeng/sindaZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
