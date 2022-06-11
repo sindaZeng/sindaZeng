@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👨🏻‍💻 I’m a java developer, But sometimes I'm also a web developer
-- 💬 You can ask me questions by email!
+- 💬 You can ask me questions by email
 - 📫 How to reach me: sindaZeng@gmail.com & xhuicloud@163.com
 - 😄 Skill: 
 - - `java` : Spring、SpringBoot、SpringCloud & SpringCloudAlibaba、SpringSecurity & OAuth2 、Mybatis & Mybatis-Plus And ... 
